@@ -22,4 +22,8 @@ group :test do
   gem 'rspec'
 end
 
+gem 'bcrypt-ruby'
+
+# Image uploading gems
 gem 'carrierwave'
+gem 'mini_magick'
